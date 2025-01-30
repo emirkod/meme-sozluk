@@ -4,7 +4,7 @@ while True :
             "LOL": "Komik bir şeye verilen cevap(lots of laugh)",
             "NİCE TRY":"İyi denemeydi",
             "EZ WİN": "Kolaydı",
-            "SIGMA BOYS": "ciddi,umursamaz,havalı erkekler",
+            "SIGMA BOY": "ciddi,umursamaz,havalı erkek",
             "TROLL FACE": "trollemeyi,başkasını sinirlendirmeyi veya şaka yaptığını belirtmek için kullanılır.",
             "ME GUSTA": "rahatsız edici ama hoşuma gidiyor demektir.",
             "Y U NO GUY": "Birşeyin neden mantıklı olmadığını söylemek için kullanılır."
